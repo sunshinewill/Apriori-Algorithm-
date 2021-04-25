@@ -1,4 +1,4 @@
-# Apriori-Algorithm-
+# Apriori Algorithm-
 
 There are 3 ways to measure association:
 
